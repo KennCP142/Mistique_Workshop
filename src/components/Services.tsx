@@ -8,19 +8,19 @@ const Services: React.FC = () => {
       icon: <Zap className="w-12 h-12 text-blue-500" />,
       title: "Engine Remapping",
       description: "Optimize your vehicle's performance with our expert engine remapping service. Enhance power, improve fuel efficiency, and unlock the full potential of your engine with custom ECU tuning tailored to your specific needs.",
-      image: "images/IMG_0608.jpg"
+      image: "/images/IMG_0608.jpg"
     },
     {
       icon: <Settings className="w-12 h-12 text-blue-500" />,
       title: "Performance Tuneup",
       description: "Keep your vehicle running at peak performance with our comprehensive tuneup service. From spark plugs to fuel systems, we meticulously inspect and optimize every component to ensure smooth operation, improved mileage, and reliable performance.",
-      image: "images/IMG_0686.jpg"
+      image: "/images/IMG_0686.jpg"
     },
     {
       icon: <Wrench className="w-12 h-12 text-blue-500" />,
       title: "Custom Car Projects",
       description: "Turn your automotive dreams into reality with our custom car project service. From performance upgrades to complete restorations, our expert team will work with you to create a unique vehicle that stands out from the crowd and delivers exceptional performance.",
-      image: "images/IMG_0587.jpg"
+      image: "/images/IMG_0587.jpg"
     }
   ];
 

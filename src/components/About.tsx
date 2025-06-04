@@ -8,7 +8,7 @@ const About: React.FC = () => {
           <div className="md:w-1/2 mb-10 md:mb-0">
             <div className="relative">
               <img 
-                src="images/IMG_0598.jpg" 
+                src="/images/IMG_0598.jpg" 
                 className="rounded-lg shadow-2xl w-full"
               />
             

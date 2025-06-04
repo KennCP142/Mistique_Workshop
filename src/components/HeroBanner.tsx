@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
 
 const images = [
-  'images/IMG_0616.jpg',
-  'images/IMG_0613.jpg',
-  'images/IMG_0606.jpg'
+  '/images/IMG_0616.jpg',
+  '/images/IMG_0613.jpg',
+  '/images/IMG_0606.jpg'
 ];
 
 const HeroBanner: React.FC = () => {
