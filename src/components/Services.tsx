@@ -28,7 +28,7 @@ const Services: React.FC = () => {
     <section id="services" className="py-20 bg-gray-900">
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Our Premium Services</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Our Services</h2>
           <div className="h-1 w-20 bg-blue-500 mx-auto"></div>
           <p className="mt-4 text-gray-300 max-w-2xl mx-auto">
             At Mistique Workshop, we offer premium automotive services to enhance your vehicle's performance and aesthetics.

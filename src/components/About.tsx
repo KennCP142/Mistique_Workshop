@@ -26,19 +26,7 @@ const About: React.FC = () => {
             <div className="grid grid-cols-2 gap-4 mb-6">
               <div className="flex items-center">
                 <div className="h-2 w-2 bg-blue-500 rounded-full mr-2"></div>
-                <span className="text-gray-300">Certified Mechanics</span>
-              </div>
-              <div className="flex items-center">
-                <div className="h-2 w-2 bg-blue-500 rounded-full mr-2"></div>
-                <span className="text-gray-300">Premium Equipment</span>
-              </div>
-              <div className="flex items-center">
-                <div className="h-2 w-2 bg-blue-500 rounded-full mr-2"></div>
                 <span className="text-gray-300">Warranty Service</span>
-              </div>
-              <div className="flex items-center">
-                <div className="h-2 w-2 bg-blue-500 rounded-full mr-2"></div>
-                <span className="text-gray-300">Customer Support</span>
               </div>
             </div>
             <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-8 rounded-lg transition-all duration-300 transform hover:scale-105">
