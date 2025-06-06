@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
               <span className="font-bold text-xl">Mistique Workshop</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Premium automotive performance enhancement and customization services.
+              Automotive performance enhancement and customization services.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-red-500 transition-colors">

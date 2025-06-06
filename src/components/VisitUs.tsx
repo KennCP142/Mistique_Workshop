@@ -19,16 +19,16 @@ const VisitUs: React.FC = () => {
                   href="https://instagram.com/mistiqueworkshop" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
+                  className="flex items-center space-x-3 text-gray-300 hover:text-blue-500 transition-colors duration-300"
                 >
                   <Instagram size={24} />
                   <span>Instagram</span>
                 </a>
                 <a 
-                  href="https://wa.me/1234567890" 
+                  href="https://wa.me/6281234888849" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
+                  className="flex items-center space-x-3 text-gray-300 hover:text-blue-500 transition-colors duration-300"
                 >
                   <MessageCircle size={24} />
                   <span>WhatsApp</span>
@@ -37,16 +37,16 @@ const VisitUs: React.FC = () => {
                   href="https://tiktok.com/@mistiqueworkshop" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
+                  className="flex items-center space-x-3 text-gray-300 hover:text-blue-500 transition-colors duration-300"
                 >
                   <Video size={24} />
                   <span>TikTok</span>
                 </a>
                 <a 
-                  href="https://facebook.com/mistiqueworkshop" 
+                  href="https://www.facebook.com/profile.php?id=61576740235209" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
+                  className="flex items-center space-x-3 text-gray-300 hover:text-blue-500 transition-colors duration-300"
                 >
                   <Facebook size={24} />
                   <span>Facebook</span>
@@ -58,12 +58,8 @@ const VisitUs: React.FC = () => {
               <h3 className="text-2xl font-bold text-white mb-6">Business Hours</h3>
               <div className="space-y-3">
                 <div className="flex justify-between text-gray-300">
-                  <span>Monday - Friday:</span>
-                  <span>8:00 AM - 6:00 PM</span>
-                </div>
-                <div className="flex justify-between text-gray-300">
-                  <span>Saturday:</span>
-                  <span>9:00 AM - 4:00 PM</span>
+                  <span>Monday - Saturday:</span>
+                  <span>8:00 - 17:00</span>
                 </div>
                 <div className="flex justify-between text-gray-300">
                   <span>Sunday:</span>
