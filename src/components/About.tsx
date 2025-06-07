@@ -18,10 +18,10 @@ const About: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">About Mistique Workshop</h2>
             <div className="h-1 w-20 bg-blue-500 mb-6"></div>
             <p className="text-gray-300 mb-6">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cum laborum asperiores possimus aperiam, dolorem quod accusantium ab maiores sequi nostrum provident dolorum inventore exercitationem officiis omnis eius, atque alias?
+              Mistique Workshop adalah bengkel otomotif yang berfokus pada layanan tune-up dan remap serta  project mobil JDM. Kami menangani berbagai jenis project mulai dari restorasi hingga modifikasi penuh, dengan pendekatan detail dan personal sesuai karakter mobil.
             </p>
             <p className="text-gray-300 mb-6">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore voluptatibus impedit fugiat facere, temporibus explicabo animi itaque! Deleniti accusantium iste corrupti quas reprehenderit nesciunt non officiis atque dolores, reiciendis blanditiis.
+              Untuk mobil harian maupun performa, layanan tune-up dan remap kami dirancang untuk mengoptimalkan mesin agar lebih responsif, efisien, dan tahan lama — dengan solusi yang terus berkembang dan terbuka untuk dikonsultasikan kapan saja.
             </p>
             <div className="grid grid-cols-2 gap-4 mb-6">
               <div className="flex items-center">

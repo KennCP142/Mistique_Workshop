@@ -15,6 +15,10 @@ const VisitUs: React.FC = () => {
             <div className="bg-gray-800 p-8 rounded-lg shadow-lg mb-8">
               <h3 className="text-2xl font-bold text-white mb-6">Connect With Us</h3>
               <div className="grid grid-cols-2 gap-6">
+                <a>
+                  <span>@mistique.jdmgroup@gmail.com</span>
+                </a>
+                <a></a>
                 <a 
                   href="https://instagram.com/mistiqueworkshop" 
                   target="_blank" 
@@ -51,6 +55,7 @@ const VisitUs: React.FC = () => {
                   <Facebook size={24} />
                   <span>Facebook</span>
                 </a>
+                
               </div>
             </div>
 
@@ -59,7 +64,7 @@ const VisitUs: React.FC = () => {
               <div className="space-y-3">
                 <div className="flex justify-between text-gray-300">
                   <span>Monday - Saturday:</span>
-                  <span>8:00 - 17:00</span>
+                  <span>08:00 - 17:00</span>
                 </div>
                 <div className="flex justify-between text-gray-300">
                   <span>Sunday:</span>
