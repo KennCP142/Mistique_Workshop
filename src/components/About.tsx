@@ -18,7 +18,7 @@ const About: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">About Mistique Workshop</h2>
             <div className="h-1 w-20 bg-red-500 mb-6"></div>
             <p className="text-gray-300 mb-6">
-              Mistique Workshop adalah bengkel otomotif yang berfokus pada layanan tune-up dan remap serta  project mobil JDM. Kami menangani berbagai jenis project mulai dari restorasi hingga modifikasi penuh, dengan pendekatan detail dan personal sesuai karakter mobil.
+              Mistique Workshop adalah bengkel otomotif yang berfokus pada layanan tune-up dan remap serta  project mobil JDM, dan lainnya. Kami menangani berbagai jenis project mulai dari restorasi hingga modifikasi penuh, dengan pendekatan detail dan personal sesuai karakter mobil.
             </p>
             <p className="text-gray-300 mb-6">
               Untuk mobil harian maupun performa, layanan tune-up dan remap kami dirancang untuk mengoptimalkan mesin agar lebih responsif, efisien, dan tahan lama — dengan solusi yang terus berkembang dan terbuka untuk dikonsultasikan kapan saja.
@@ -26,7 +26,35 @@ const About: React.FC = () => {
             <div className="grid grid-cols-2 gap-4 mb-6">
               <div className="flex items-center">
                 <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
-                <span className="text-gray-300">Warranty Service</span>
+                <span className="text-gray-300">Garansi</span>
+              </div>
+              <div className="flex items-center">
+                <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
+                <span className="text-gray-300">Engine Remap</span>
+              </div>
+              <div className="flex items-center">
+                <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
+                <span className="text-gray-300">Engine Tune up</span>
+              </div>
+              <div className="flex items-center">
+                <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
+                <span className="text-gray-300">Full Modification</span>
+              </div>
+              <div className="flex items-center">
+                <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
+                <span className="text-gray-300">Full Restoration</span>
+              </div>
+              <div className="flex items-center">
+                <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
+                <span className="text-gray-300">Minor Electrical Issue</span>
+              </div>
+              <div className="flex items-center">
+                <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
+                <span className="text-gray-300">Major Electrical Remap</span>
+              </div>
+              <div className="flex items-center">
+                <div className="h-2 w-2 bg-red-500 rounded-full mr-2"></div>
+                <span className="text-gray-300">Oil Change</span>
               </div>
             </div>
             <button className="bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-8 rounded-lg transition-all duration-300 transform hover:scale-105">
