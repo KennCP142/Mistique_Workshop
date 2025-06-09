@@ -28,7 +28,7 @@ const Testimonials: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Client Testimonials</h2>
-          <div className="h-1 w-20 bg-blue-500 mx-auto"></div>
+          <div className="h-1 w-20 bg-red-500 mx-auto"></div>
           
         </div>
 
@@ -48,7 +48,7 @@ const Testimonials: React.FC = () => {
           href="https://www.google.com/maps/place/%22+MISTIQUE%22/@-7.935715,112.63615,16z/data=!4m8!3m7!1s0x2dd629eecae6d1dd:0xe179a15e8bf8ec21!8m2!3d-7.9357152!4d112.63615!9m1!1b1!16s%2Fg%2F11gc0tb5ld?hl=en&entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-block bg-blue-500 text-white font-semibold px-6 py-3 rounded-lg hover:bg-blue-600 transition"
+          className="inline-block bg-red-500 text-white font-semibold px-6 py-3 rounded-lg hover:bg-red-600 transition"
           >
           See More Reviews on Google
           </a>

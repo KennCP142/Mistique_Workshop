@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center mb-4">
-              <WrenchIcon className="h-8 w-8 text-blue-600 mr-2" />
+              <WrenchIcon className="h-8 w-8 text-red-600 mr-2" />
               <span className="font-bold text-xl">Mistique Workshop</span>
             </div>
             <p className="text-gray-400 mb-4">

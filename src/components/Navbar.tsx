@@ -39,7 +39,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <WrenchIcon className="h-8 w-8 text-blue-600 mr-2" />
+            <WrenchIcon className="h-8 w-8 text-red-600 mr-2" />
             <span className="text-white font-bold text-xl">Mistique Workshop</span>
           </div>
           
@@ -47,31 +47,31 @@ const Navbar: React.FC = () => {
           <div className="hidden md:flex space-x-8">
             <button 
               onClick={() => scrollToSection('home')} 
-              className="text-white hover:text-blue-500 transition-colors duration-200"
+              className="text-white hover:text-red-500 transition-colors duration-200"
             >
               Home
             </button>
             <button 
               onClick={() => scrollToSection('services')} 
-              className="text-white hover:text-blue-500 transition-colors duration-200"
+              className="text-white hover:text-red-500 transition-colors duration-200"
             >
               Services
             </button>
             <button 
               onClick={() => scrollToSection('about')} 
-              className="text-white hover:text-blue-500 transition-colors duration-200"
+              className="text-white hover:text-red-500 transition-colors duration-200"
             >
               About
             </button>
             <button 
               onClick={() => scrollToSection('testimonials')} 
-              className="text-white hover:text-blue-500 transition-colors duration-200"
+              className="text-white hover:text-red-500 transition-colors duration-200"
             >
               Testimonials
             </button>
             <button 
               onClick={() => scrollToSection('visit')} 
-              className="text-white hover:text-blue-500 transition-colors duration-200"
+              className="text-white hover:text-red-500 transition-colors duration-200"
             >
               Visit Us
             </button>

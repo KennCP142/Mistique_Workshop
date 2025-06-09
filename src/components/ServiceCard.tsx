@@ -20,7 +20,7 @@ const ServiceCard: React.FC<ServiceCardProps> = ({ icon, title, description, ima
           <h3 className="text-xl font-bold text-white ml-3">{title}</h3>
         </div>
         <p className="text-gray-300 mb-4">{description}</p>
-        <button className="bg-transparent hover:bg-blue-600 text-blue-500 hover:text-white border border-blue-500 hover:border-transparent rounded px-4 py-2 transition-colors duration-300 text-sm font-medium">
+        <button className="bg-transparent hover:bg-red-600 text-red-500 hover:text-white border border-red-500 hover:border-transparent rounded px-4 py-2 transition-colors duration-300 text-sm font-medium">
           Learn More
         </button>
       </div>

@@ -32,7 +32,7 @@ const HeroBanner: React.FC = () => {
       
       <div className="container mx-auto px-4 md:px-6 z-10 text-center">
         <h1 className="text-4xl md:text-6xl font-bold text-white mb-4 animate-fade-in">
-          <span className="text-blue-500">MISTIQUE</span> WORKSHOP
+          <span className="text-red-500">MISTIQUE</span> WORKSHOP
         </h1>
         <div className="flex flex-wrap justify-center gap-4">
           <button 
@@ -42,7 +42,7 @@ const HeroBanner: React.FC = () => {
                 servicesSection.scrollIntoView({ behavior: 'smooth' });
               }
             }}
-            className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-8 rounded-lg transition-all duration-300 transform hover:scale-105"
+            className="bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-8 rounded-lg transition-all duration-300 transform hover:scale-105"
           >
             Our Services
           </button>
