@@ -38,7 +38,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <img src="public/logo/logo_only.png" alt="Mistique Workshop" className="h-16 w-18" />
+            <img src="/logo/logo_only.png" alt="Mistique Workshop" className="h-16 w-18" />
           </div>
 
           {/* Desktop Navigation */}
