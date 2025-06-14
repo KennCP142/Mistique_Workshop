@@ -47,19 +47,7 @@ const HeroBanner: React.FC = () => {
         <div className="absolute inset-0 bg-black bg-opacity-60 z-20" />
       </div>
 
-      {/* Carousel Buttons */}
-      <button
-        onClick={prevImage}
-        className="absolute left-4 top-1/2 transform -translate-y-1/2 z-30 bg-black/50 hover:bg-black/70 text-white p-3 rounded-full transition"
-      >
-        &#8592;
-      </button>
-      <button
-        onClick={nextImage}
-        className="absolute right-4 top-1/2 transform -translate-y-1/2 z-30 bg-black/50 hover:bg-black/70 text-white p-3 rounded-full transition"
-      >
-        &#8594;
-      </button>
+
 
       {/* Content */}
       <div className="relative z-30 flex flex-col items-center justify-center h-full text-center px-4 md:px-6">
