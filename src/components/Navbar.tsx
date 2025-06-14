@@ -114,10 +114,10 @@ const Navbar: React.FC = () => {
               Testimonials
             </button>
             <button
-              onClick={() => scrollToSection('contact')}
+              onClick={() => scrollToSection('visit')}
               className="text-white hover:text-red-500 transition-colors duration-200"
             >
-              Contact
+              Visit Us
             </button>
           </div>
         )}
