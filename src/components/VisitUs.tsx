@@ -19,43 +19,43 @@ const VisitUs: React.FC = () => {
                   <span>@mistique.jdmgroup@gmail.com</span>
                 </a>
                 <a></a>
-                <a 
-                  href="https://instagram.com/mistiqueworkshop" 
-                  target="_blank" 
+                <a
+                  href="https://instagram.com/mistiqueworkshop"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
                 >
                   <Instagram size={24} />
                   <span>Instagram</span>
                 </a>
-                <a 
-                  href="https://wa.me/6281234888849" 
-                  target="_blank" 
+                <a
+                  href="https://wa.me/6281234888849"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
                 >
                   <MessageCircle size={24} />
                   <span>WhatsApp</span>
                 </a>
-                <a 
-                  href="https://tiktok.com/@mistiqueworkshop" 
-                  target="_blank" 
+                <a
+                  href="https://tiktok.com/@mistiqueworkshop"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
                 >
-                  <Video size={24} />
+                  <img src="public/logo/tiktok-24.png" alt="TikTok" className="h-6 w-6" />
                   <span>TikTok</span>
                 </a>
-                <a 
-                  href="https://www.facebook.com/profile.php?id=61576740235209" 
-                  target="_blank" 
+                <a
+                  href="https://www.facebook.com/profile.php?id=61576740235209"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
                 >
                   <Facebook size={24} />
                   <span>Facebook</span>
                 </a>
-                
+
               </div>
             </div>
 

@@ -56,7 +56,7 @@ const Contact: React.FC = () => {
                   required
                 />
               </div>
-              
+
               <div>
                 <label htmlFor="email" className="block text-gray-300 mb-2">Email</label>
                 <input
@@ -69,7 +69,7 @@ const Contact: React.FC = () => {
                   required
                 />
               </div>
-              
+
               <div>
                 <label htmlFor="phone" className="block text-gray-300 mb-2">Phone Number</label>
                 <input
@@ -81,7 +81,7 @@ const Contact: React.FC = () => {
                   className="w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 text-white"
                 />
               </div>
-              
+
               <div>
                 <label htmlFor="message" className="block text-gray-300 mb-2">Message</label>
                 <textarea
@@ -94,7 +94,7 @@ const Contact: React.FC = () => {
                   required
                 ></textarea>
               </div>
-              
+
               <button
                 type="submit"
                 className="bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-300 w-full"
@@ -103,10 +103,10 @@ const Contact: React.FC = () => {
               </button>
             </form>
           </div>
-          
+
           <div className="bg-gray-800 p-8 rounded-lg">
             <h3 className="text-2xl font-bold text-white mb-6">Contact Information</h3>
-            
+
             <div className="space-y-6">
               <div className="flex items-start">
                 <MapPin className="text-red-500 mr-4 mt-1 flex-shrink-0" />
@@ -115,7 +115,7 @@ const Contact: React.FC = () => {
                   <p className="text-gray-300">123 Performance Drive, Autoville, AV 12345</p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <Phone className="text-red-500 mr-4 mt-1 flex-shrink-0" />
                 <div>
@@ -123,7 +123,7 @@ const Contact: React.FC = () => {
                   <p className="text-gray-300">(555) 123-4567</p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <Mail className="text-red-500 mr-4 mt-1 flex-shrink-0" />
                 <div>
@@ -131,7 +131,7 @@ const Contact: React.FC = () => {
                   <p className="text-gray-300">info@mistiqueauto.com</p>
                 </div>
               </div>
-              
+
               <div className="flex items-start">
                 <Clock className="text-red-500 mr-4 mt-1 flex-shrink-0" />
                 <div>
@@ -142,7 +142,7 @@ const Contact: React.FC = () => {
                 </div>
               </div>
             </div>
-            
+
             <div className="mt-8">
               <h4 className="text-white font-medium mb-4">Follow Us</h4>
               <div className="flex space-x-4">
