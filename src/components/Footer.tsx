@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center mb-4">
-              <img src="public/logo/logo_white_text.png" alt="Mistique Workshop" className="h-20 w-22" />
+              <img src="logo/logo_white_text.png" alt="Mistique Workshop" className="h-20 w-22" />
             </div>
             <p className="text-gray-400 mb-4">
               Automotive performance enhancement and customization services.

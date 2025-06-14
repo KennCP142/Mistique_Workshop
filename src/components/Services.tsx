@@ -8,7 +8,7 @@ const Services: React.FC = () => {
       icon: <Zap className="w-12 h-12 text-red-500" />,
       title: "Engine Remapping",
       description: "Optimize your vehicle's performance with our expert engine remapping service. Enhance power, improve fuel efficiency, and unlock the full potential of your engine with custom ECU tuning tailored to your specific needs.",
-      image: "/images/IMG_0608.jpg"
+      image: "/images/IMG_0006.jpg"
     },
     {
       icon: <Settings className="w-12 h-12 text-red-500" />,

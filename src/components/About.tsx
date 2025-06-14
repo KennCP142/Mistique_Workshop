@@ -25,15 +25,19 @@ const About: React.FC = () => {
               <img src="/logo/logo_white_text.png" alt="Mistique Logo" className="h-30" />
             </div>
             <p className="text-gray-300 mb-6">
-              Mistique Workshop adalah bengkel otomotif yang berfokus pada layanan tune-up dan remap serta project mobil JDM, dan lainnya. Kami menangani berbagai jenis project mulai dari restorasi hingga modifikasi penuh, dengan pendekatan detail dan personal sesuai karakter mobil.
+              Mistique Workshop adalah bengkel otomotif yang berfokus pada layanan tune-up dan remap serta car project, 
+              dan lainnya. Kami menangani berbagai jenis project mulai dari restorasi hingga modifikasi penuh, dengan pendekatan detail
+              dan personal sesuai karakter mobil.
             </p>
             <p className="text-gray-300 mb-6">
-              Untuk mobil harian maupun performa, layanan tune-up dan remap kami dirancang untuk mengoptimalkan mesin agar lebih responsif, efisien, dan tahan lama — dengan solusi yang terus berkembang dan terbuka untuk dikonsultasikan kapan saja.
+              Untuk mobil harian maupun performa, layanan tune-up dan remap kami dirancang untuk mengoptimalkan mesin 
+              agar lebih responsif, efisien, dan tahan lama — dengan solusi yang terus 
+              berkembang dan terbuka untuk dikonsultasikan kapan saja.
             </p>
 
             <div className="grid grid-cols-2 gap-4 mb-6">
               {[
-                'Garansi',
+                'Guarantee',
                 'Engine Remap',
                 'Engine Tune up',
                 'Full Modification',

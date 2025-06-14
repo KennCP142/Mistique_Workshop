@@ -16,7 +16,7 @@ const VisitUs: React.FC = () => {
               <h3 className="text-2xl font-bold text-white mb-6">Connect With Us</h3>
               <div className="grid grid-cols-2 gap-6">
                 <a>
-                  <span>@mistique.jdmgroup@gmail.com</span>
+                  <span>mistiqueworkshop@gmail.com</span>
                 </a>
                 <a></a>
                 <a
