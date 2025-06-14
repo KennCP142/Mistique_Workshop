@@ -43,7 +43,7 @@ const VisitUs: React.FC = () => {
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 text-gray-300 hover:text-red-500 transition-colors duration-300"
                 >
-                  <img src="public/logo/tiktok-24.png" alt="TikTok" className="h-6 w-6" />
+                  <img src="/logo/tiktok-24.png" alt="TikTok" className="h-6 w-6" />
                   <span>TikTok</span>
                 </a>
                 <a
